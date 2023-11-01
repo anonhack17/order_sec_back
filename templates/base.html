@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>QZ 3.0 ADMIN</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            background-color: #f0f0f0;
+            padding: 20px;
+            margin: 0;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            color: #333;
+            background-color: #085746;
+        }
+
+        li {
+            display: inline-block;
+            border: 1px solid;
+            background: #70938b;
+        }
+
+        li a {
+            color: #fff;
+            text-decoration: none;
+            padding: 10px;
+        }
+
+        li a:hover {
+            background-color: #70938b;
+        }
+
+        img {
+            max-width: 700px;
+        }
+
+        .v {
+            padding-left: 4px;
+            font-size: 14px;
+        }
+
+        .container {
+            margin: 0 auto;
+            max-width: 1230px;
+            padding: 0 15px;
+        }
+
+        .main {
+            background-color: #085746;
+            padding: 15px;
+        }
+
+        .main-img {
+            margin: 0 auto;
+            display: flex;
+            padding: 50px 0;
+            justify-content: center;
+        }
+
+        .custom-btn {
+            background-color: #236e5d;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .custom-btn:hover {
+            background-color: #70938b;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .custom-btn_api {
+            background-color: #236e5d;
+            border: none;
+            color: white;
+            padding: 10px 30px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .custom-btn_api:hover {
+            background-color: #70938b;
+            border: none;
+            color: white;
+            padding: 10px 30px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .ulpos {
+            display: flex;
+            justify-content: space-between;
+        }
+    </style>
+</head>
+<body>
+
+<h1>QZ3.0 ADMIN<span class="v">v1.0.0</span></h1>
+
+
+<div class="main ulpos">
+    <ul>
+        <li class="custom-btn"><a href="/admin/">Админ</a></li>
+        <li class="custom-btn"><a href="/account/two_factor/setup/" target="CONTENT">2FA</a></li>
+        <li class="custom-btn"><a href="auth/users/">Регистрация нового пользователя</a></li>
+    </ul>
+    <ul>
+        <li class="custom-btn_api"><a href="/api/">Api</a></li>
+    </ul>
+
+</div>
+<div class="container">
+</div>
+
+{% block content %}
+{% endblock %}
+
+</body>
+</html>

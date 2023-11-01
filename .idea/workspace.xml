@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e82e5290-27e6-42fd-8f06-cf417085d251" name="Changes" comment="15.10.2023" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WATX4P3oOdC2Ve6vcrVYKdFlyi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Documents/my fucken 2022/my fucken autumn/algoritm/алгоритмы/qz3_backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Documents\2023\qz3.0\main\backend\qz3_backend\pentesting\pentest" />
+      <recent name="E:\Documents\2023\qz3.0\main\backend\qz3_backend\PCOPT" />
+      <recent name="E:\Documents\2023\qz3.0\main\backend\qz3_backend\security" />
+      <recent name="E:\Documents\2023\qz3.0\main\backend\qz3_backend" />
+      <recent name="E:\Documents\2023\qz3.0\main\backend\qz3_backend\project" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="qz3_backend" type="Python.DjangoServer" factoryName="Django server">
+      <module name="qz3_backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e82e5290-27e6-42fd-8f06-cf417085d251" name="Changes" comment="" />
+      <created>1696174425304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696174425304</updated>
+      <workItem from="1696174426889" duration="2392000" />
+      <workItem from="1696184318421" duration="504000" />
+      <workItem from="1696228868744" duration="697000" />
+      <workItem from="1696248677641" duration="1133000" />
+      <workItem from="1696337887269" duration="1732000" />
+      <workItem from="1696423727401" duration="5553000" />
+      <workItem from="1696629344695" duration="4316000" />
+      <workItem from="1696640685700" duration="1807000" />
+      <workItem from="1696670337756" duration="606000" />
+      <workItem from="1696687446344" duration="1519000" />
+      <workItem from="1696752622257" duration="3013000" />
+      <workItem from="1696788054132" duration="1818000" />
+      <workItem from="1696840489944" duration="1750000" />
+      <workItem from="1696920045493" duration="675000" />
+      <workItem from="1696946324032" duration="1518000" />
+      <workItem from="1696957829784" duration="833000" />
+      <workItem from="1697022950041" duration="10312000" />
+      <workItem from="1697104363596" duration="941000" />
+      <workItem from="1697112257506" duration="1218000" />
+      <workItem from="1697114397791" duration="281000" />
+      <workItem from="1697115068779" duration="3766000" />
+      <workItem from="1697128718113" duration="606000" />
+      <workItem from="1697270387950" duration="7808000" />
+      <workItem from="1697300939118" duration="595000" />
+      <workItem from="1697312171783" duration="279000" />
+      <workItem from="1697312469907" duration="187000" />
+      <workItem from="1697312922473" duration="170000" />
+      <workItem from="1697313117630" duration="640000" />
+      <workItem from="1697313824149" duration="197000" />
+      <workItem from="1697385861707" duration="15000" />
+      <workItem from="1697566028796" duration="749000" />
+      <workItem from="1697650119692" duration="806000" />
+      <workItem from="1697714050649" duration="967000" />
+      <workItem from="1697804609119" duration="4437000" />
+      <workItem from="1697879980185" duration="50000" />
+      <workItem from="1697911907009" duration="4340000" />
+      <workItem from="1697958751735" duration="1192000" />
+      <workItem from="1698033214009" duration="1208000" />
+      <workItem from="1698140921107" duration="5646000" />
+      <workItem from="1698165747689" duration="4375000" />
+      <workItem from="1698217164074" duration="1938000" />
+      <workItem from="1698223118962" duration="6340000" />
+      <workItem from="1698244494214" duration="3257000" />
+      <workItem from="1698420845052" duration="10999000" />
+      <workItem from="1698498371739" duration="1017000" />
+      <workItem from="1698554433667" duration="634000" />
+      <workItem from="1698555589197" duration="1427000" />
+      <workItem from="1698839698908" duration="1684000" />
+    </task>
+    <task id="LOCAL-00001" summary="07.10.2023">
+      <created>1696641628884</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696641628884</updated>
+    </task>
+    <task id="LOCAL-00002" summary="15.10.2023">
+      <created>1697312556074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697312556074</updated>
+    </task>
+    <task id="LOCAL-00003" summary="15.10.2023">
+      <created>1697313284147</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697313284148</updated>
+    </task>
+    <task id="LOCAL-00004" summary="15.10.2023">
+      <created>1697313512251</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697313512251</updated>
+    </task>
+    <task id="LOCAL-00005" summary="15.10.2023">
+      <created>1697313958952</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697313958952</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="07.10.2023" />
+    <MESSAGE value="15.10.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="15.10.2023" />
+  </component>
+</project>
